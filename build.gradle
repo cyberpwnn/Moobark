@@ -5,11 +5,11 @@ plugins {
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 // ========== Properties ==========
-group 'org.example'
+group 'org.cyberpwn.moobark'
 version '1.0'
-String main = 'pkg.APlugin'
+String main = 'org.cyberpwn.moobark.Moobark'
 String author = 'cyberpwn'
-String description = 'An example Shuriken Plugin'
+String description = 'Woooooffff moooo grrrewlsdfsdf '
 String pluginsFolder = "C:\\Users\\cyberpwn\\Documents\\development\\server\\plugins";
 
 // ========== Dependencies ==========
